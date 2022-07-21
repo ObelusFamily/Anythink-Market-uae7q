@@ -10,9 +10,12 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+<<<<<<< Updated upstream
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
 
 
 ## Installing repo
 Followed instructions, and then when pointing browser to localhost:3000 I received an error:"crbug/1173575, non-JS module files deprecated."
 
+=======
+>>>>>>> Stashed changes
