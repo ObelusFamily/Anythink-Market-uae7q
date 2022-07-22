@@ -15,7 +15,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 
 ## Installing repo
-Followed instructions, and then when pointing browser to localhost:3000 I received an error:"crbug/1173575, non-JS module files deprecated."
+Install docker from https://docs.docker.com/get-docker/ ; follow instructions there. 
+ 
+Download Repo using Github Desktop;
 
-=======
->>>>>>> Stashed changes
+run "docker-composer up" from the root directory.
+
+go to "localhost:3000/api/ping" and view results
